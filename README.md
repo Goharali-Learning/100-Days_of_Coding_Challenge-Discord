@@ -1,8 +1,6 @@
-//Question; 01 ;
-Install Node.js, TypeScript and VS Code on your computer.
+#Assalam-O-Alaikum....!
 
-//Question : 02 ;
-Personal Message: Store a person’s name in a variable, and print a message to that person. Your message should be simple, such as, “Hello Eric, would you like to learn some Python today?”
-
-//Question : 03 ;
-Name Cases: Store a person’s name in a variable, and then print that person’s name in lowercase, uppercase, and titlecase.
+//Welcome to 100-DAys-pf-coding-Challenge
+//Here i will Upload my Tasks 
+//Each day i will Post my 3 Task Insha..ALLAH
+//Please Must Visit my profile and check what i have done ! and give reviews
